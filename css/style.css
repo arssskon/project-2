@@ -5,3 +5,7 @@ h1 {
 .text {
     color: blueviolet;
 }
+
+.img {
+    border-radius: 20px;
+}
